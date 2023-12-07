@@ -10,6 +10,10 @@
   - Placeholder
   - PlaceHolder
   - PlaceHolder
+ 
+- <b>Military Projects
+  - Joint WarFighter
+  - Korean Tour
 
 <h2> Certifications</h2>
 
