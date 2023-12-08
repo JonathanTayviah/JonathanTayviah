@@ -24,7 +24,7 @@
 <h2> 🤳 Connect with me:</h2>
 
 
-   [LinkedIn]((www.linkedin.com/in/jonathan-tayviah-8378451b9))
+   [LinkedIn](https://www.linkedin.com/in/jonathan-tayviah-8378451b9/)
 
 
 
