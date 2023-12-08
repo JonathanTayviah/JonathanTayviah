@@ -13,7 +13,7 @@
  
 - <b>Military Projects
   - [Joint WarFighter](https://github.com/JonathanTayviah/Joint-WarFighter-Project/tree/main)
-  - Korean Tour
+  - [Korean Tour](https://github.com/JonathanTayviah/KoreanTour/tree/main)
 
 <h2> Certifications</h2>
 
