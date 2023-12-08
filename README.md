@@ -12,7 +12,7 @@
   - PlaceHolder
  
 - <b>Military Projects
-  - Joint WarFighter
+  - [Joint WarFighter](https://github.com/JonathanTayviah/Joint-WarFighter-Project/tree/main)
   - Korean Tour
 
 <h2> Certifications</h2>
