@@ -8,8 +8,7 @@
   - Placeholder
 - <b>Vulnerability Tools Labs</b>
   - [Wireshark Beginner Lab](https://github.com/JonathanTayviah/WireShark-Beginners-/blob/main/README.md)
-  - PlaceHolder
-  - PlaceHolder
+
  
 - <b>Military Projects
   - [Joint WarFighter](https://github.com/JonathanTayviah/Joint-WarFighter-Project/tree/main)
