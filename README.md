@@ -7,7 +7,7 @@
 - <b>Security Information and Event Management (SIEM) Labs</b>
   - Placeholder
 - <b>Vulnerability Tools Labs</b>
-  - Placeholder
+  - [Wireshark Beginner Lab](https://github.com/JonathanTayviah/WireShark-Beginners-/blob/main/README.md)
   - PlaceHolder
   - PlaceHolder
  
